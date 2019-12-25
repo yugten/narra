@@ -1,4 +1,4 @@
-Application Name  : PyNarra 
+Application Name  : PyNarra
 
 Created           : December 25, 2019
 
